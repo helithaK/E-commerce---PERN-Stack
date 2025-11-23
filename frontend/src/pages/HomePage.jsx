@@ -38,7 +38,7 @@ function HomePage() {
           <div className="text-center space-y-2">
             <h3 className="text-2xl font-semibold ">No products found</h3>
             <p className="text-gray-500 max-w-sm">
-              Get started by adding your first product to the inventory
+              Get started by Adding your first product to the inventory
             </p>
           </div>
         </div>
